@@ -34,14 +34,11 @@ a {
     border-bottom: 1px solid #282b33;
 }
 
-.layui-nav-img {
-    width: 40px;
-    height: 40px;
-}
-
 .layui-nav-img,
 .text-avatar {
   display: none;
+  width: 40px;
+  height: 40px;
 }
 
 .text-avatar-show {
